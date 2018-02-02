@@ -1,0 +1,61 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "67285b228d929b21a603e48519428033",
+    "content-hash": "5982bfba0be8f9c42603e03683916f79",
+    "packages": [
+        {
+            "name": "ypid/suncalc",
+            "version": "v1.7.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/ypid/suncalc-php.git",
+                "reference": "1157ccbc938189a36fb9adc9ed0b5a4f044909c1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/ypid/suncalc-php/zipball/1157ccbc938189a36fb9adc9ed0b5a4f044909c1",
+                "reference": "1157ccbc938189a36fb9adc9ed0b5a4f044909c1",
+                "shasum": ""
+            },
+            "type": "library",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "BSD-2-Clause"
+            ],
+            "authors": [
+                {
+                    "name": "Robin Schneider",
+                    "email": "ypid@riseup.net",
+                    "homepage": "http://ypid.de/",
+                    "role": "Maintainer/Rewrite in Haxe"
+                },
+                {
+                    "name": "Vladimir Agafonkin",
+                    "email": "agafonkin@gmail.com",
+                    "homepage": "http://agafonkin.com/en",
+                    "role": "Initial implementation in JavaScript"
+                }
+            ],
+            "description": "Calculate sun position, sunlight phases, moon position and lunar phase.",
+            "homepage": "https://github.com/ypid/suncalc",
+            "keywords": [
+                "astronomy",
+                "moon",
+                "sun"
+            ],
+            "time": "2015-12-12 23:32:33"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

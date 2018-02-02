@@ -1,0 +1,5 @@
+{
+    "require": {
+        "ypid/suncalc": "^1.7"
+    }
+}

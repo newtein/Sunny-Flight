@@ -1,0 +1,8 @@
+Front-End: JQuery, CSS, HTML
+
+Back-End: OOPs PHP
+
+Others: Image Processing using Canvas, Pixart.
+
+Database: 
+Files: Scrapped from flightaware.com

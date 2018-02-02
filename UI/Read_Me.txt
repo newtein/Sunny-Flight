@@ -1,0 +1,3 @@
+Suppose you are traveling on a flight and you are allotted with a random seat and in most of the part
+of journey you are annoyed by sunlight. Thus to presented the solution to this problem, after intense calculations of earth’s, flight’s and sunlight’s elevation of latitudes and longitudes, we presented the user the result that which side of plane either
+left or right he/she should reserve in order to get exposure to minimum sunlight.
