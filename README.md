@@ -1,7 +1,7 @@
 # SunnyFlight
-#### Illustrated Readme with Snapshots of implemented Web-Application
+#### Illustrated Readme with Snapshots of implemented Web-Application.
 
-A project from hack.summit() Virtual Hackathon
+A project from hack.summit() Virtual Hackathon.
 
 Basic flight data from http://openflights.org/data.html
 
