@@ -18,7 +18,7 @@ Back-End: OOPs PHP
 Others: Image Processing using Canvas, Pixart.
 
 Created a web application in coordination with a German Backend Developer. 
-Determined whether which side of plane should be reserved in order to get exposure to minimum sunlight using calculations of elevation of latitudes and longitudes of earth, flight and sunlight.
+It Determines which 'side of plane' (left or right) should be reserved in order to get minimum exposure to sunlight using calculations of elevation of latitudes and longitudes of earth, flight and sunlight.
 
 ## Result of Query
 
