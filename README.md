@@ -1,9 +1,13 @@
 # SunnyFlight
+#### Illustrated Readme with Snapshots of implemented Web-Application
+
 A project from hack.summit() Virtual Hackathon
 
 Basic flight data from http://openflights.org/data.html
 
 Use the Flight Status API from FlightAware.
+
+
 ![alt text](https://raw.githubusercontent.com/newtein/Sunny-Flight/master/UI/1.%20Welcome_Page.JPG)
 
 ## Technologies Used
