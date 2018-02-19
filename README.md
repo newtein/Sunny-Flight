@@ -1,5 +1,6 @@
 # SunnyFlight
-#### Illustrated Readme with Snapshots of implemented Web-Application.
+#### Published Web-Page is available <a href="https://newtein.github.io/Sunny-Flight/" target="_blank"> here.</a>
+
 
 A project from hack.summit() Virtual Hackathon.
 
