@@ -53,6 +53,17 @@
       }
       
     </style>
+     <script
+  src="https://code.jquery.com/jquery-3.3.1.min.js"
+  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+  crossorigin="anonymous"></script>
+	  
+   <script> 
+    $(function(){
+      $("#includedContentDiv").load("https://raw.githubusercontent.com/newtein/no_escape_search/master/tempfile.html"); 
+    });
+    </script> 
+	
   </head>
 
   <body>
@@ -105,6 +116,8 @@ latitudes and longitudes, we presented the user the result that which side of pl
 
         <aside id="sidebar">
    
+<a href="#otherProjects"><h2 class="headB">   Other Projects  </h2> </a>
+
 
           <h2> Self-Project </h2>
           <p> Jan, 2017 - Feb 2017 </p>
@@ -123,7 +136,8 @@ latitudes and longitudes, we presented the user the result that which side of pl
           <h2> Collaborators </h2>
           <p> IIya Kil (German Web-developer) </p>
      
-          
+          <div id="includedContentDiv"></div>
+
             <p class="repo-owner"><a href="https://github.com/newtein/Sunny-Flight">Sunny-Flight</a> is maintained by <a href="https://github.com/newtein">Harshit Gujral (newtein)</a>.</p>
           
 
